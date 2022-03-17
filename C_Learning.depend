@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1646234918 source:d:\courses\c_codes\c_learning\main.c
+	"header.h"
+
+1645098436 source:d:\courses\c_codes\c_learning\switch_cases.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1646234901 source:d:\courses\c_codes\c_learning\functions.c
+	"header.h"
+
+1646234892 d:\courses\c_codes\c_learning\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stddef.h>
+	<stdlib.h>
+
